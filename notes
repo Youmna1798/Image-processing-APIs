@@ -1,0 +1,8 @@
+arranging dependencies : move 
+"jasmine": "^4.2.1",
+"jasmine-spec-reporter": "^7.0.0",
+from dependencies to devpendencies
+
+
+rectifying test spec : correct the path of image spec test 
+// const fullImagesPath = path.resolve('./') + `/images/AllImages/fjord.jpg`;

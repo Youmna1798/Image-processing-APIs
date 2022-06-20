@@ -2,7 +2,7 @@ import path from 'path';
 import resizeImages from './../../routes/api/resize';
 
 
-const fullImagesPath = path.resolve('./') + `/images/fullImages/fjord.jpg`;
+const fullImagesPath = path.resolve('./') + `/images/AllImages/fjord.jpg`;
 const resizeImagesPath =path.resolve('./') + `/images/resizeImages/fjord_200_300.jpg`;
 
 describe('The imageResizer function', (): void => {
